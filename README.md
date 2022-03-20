@@ -1,1 +1,1 @@
-LDZPLN1 Private Repo
+Repositories for random projects and personal code
